@@ -20,3 +20,4 @@ This repo is a team effort, mostly by Microsoft employees in the Netherlands who
 * [Pieter de Bruin](https://github.com/pdebruin)
 * [Victor Pikula](https://github.com/victorp13)
 * [Zen Riel](https://github.com/zenulous)
+* [Sarath Sasidharan] (https://github.com/sarathsasidharan/)
