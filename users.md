@@ -29,3 +29,4 @@ This repo is a team effort, mostly by Microsoft employees in the Netherlands who
 * [Sarath Sasidharan](https://github.com/sarathsasidharan/)
 * [Victor Pikula](https://github.com/victorp13)
 * [Zen Riel](https://github.com/zenulous)
+* [Naomi Verdult](https://github.com/naverdul)
